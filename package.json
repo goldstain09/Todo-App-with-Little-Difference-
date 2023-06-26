@@ -1,5 +1,6 @@
 {
   "name": "project-5",
+    "homepage": "https://goldstain09.github.io/Todo-App-with-Little-Difference-",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
