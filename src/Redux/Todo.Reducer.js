@@ -102,8 +102,9 @@ const todoReducer = (state = Init, action) => {
                 loading: false,
                 error: action.payload
             }
+            default:
+            return state;
     }
-    return state;
 }
 
 export default todoReducer;
